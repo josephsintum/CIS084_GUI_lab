@@ -7,4 +7,6 @@ module gui.lab {
     exports javahelloworldfx;
     exports sample;
     exports javafxpaycheck;
+    exports javafxcellphonebill;
+    exports javameanmedian;
 }
