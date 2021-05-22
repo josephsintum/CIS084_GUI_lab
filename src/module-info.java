@@ -8,5 +8,6 @@ module gui.lab {
     exports sample;
     exports javafxpaycheck;
     exports javafxcellphonebill;
-    exports javameanmedian;
+    exports javafxeventregistry;
+    exports studentGrades;
 }
